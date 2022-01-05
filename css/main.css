@@ -31,7 +31,9 @@
 
 /* Body */
 body {
-  background-color: #111;
+  background: #232526; 
+  background: -webkit-linear-gradient(to right, #414345, #232526);
+  background: linear-gradient(to right, #414345, #232526);
   color: #9f9f9f;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
@@ -87,6 +89,14 @@ hr {
 .anchor-basic:hover,
 .anchor-basic:focus {
   color: #bfbfbf !important;
+}
+
+.skill-list-item {
+  list-style-type: none;
+}
+
+.tab {
+  padding-left: 40px;
 }
 
 /* Buttons */
@@ -1906,4 +1916,9 @@ hr {
   .contact-section .contact-info .info-description {
     font-size: 14px;
   }
+}
+
+.port-icons, .icon {
+  font-size: xx-large;
+  padding-right: 5px;
 }
