@@ -16,5 +16,9 @@
   });
   $(window).on('load', function() {
     // Code here executes When the page is loaded
+
+    //Assign src after page loads to correctly display boot animation
+    let iFrameConsole = document.getElementById('iFrameConsole');
+    iFrameConsole.setAttribute('src', 'https://rjonah-cli.netlify.app/');
   });
 }(jQuery));
