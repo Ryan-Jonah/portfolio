@@ -19,6 +19,6 @@
 
     //Assign src after page loads to correctly display boot animation
     let iFrameConsole = document.getElementById('iFrameConsole');
-    iFrameConsole.setAttribute('src', 'https://rjonah-cli.netlify.app/');
+    iFrameConsole.setAttribute('src', 'https://ryanj-cli.netlify.app/');
   });
 }(jQuery));
