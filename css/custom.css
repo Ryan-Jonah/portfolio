@@ -12,3 +12,9 @@
 .clip {
   color: greenyellow;
 }
+
+#iFrameConsole{
+  border: 6px solid rgb(48, 48, 48);
+  border-style: ridge;
+  background: #111;
+}
