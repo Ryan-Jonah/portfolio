@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Platform to showcase my work  
 
 https://ryanjonah.com/
